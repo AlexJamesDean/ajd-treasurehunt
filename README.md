@@ -1,4 +1,4 @@
-# AJD-TreasureHunt
+# AJD-TreasureHunt | QB-Core
 
 This script allows players to hunt for treasures across Los Santos. Players can find and dig at specific spots using a shovel, with various checks and cooldowns in place to balance gameplay.
 

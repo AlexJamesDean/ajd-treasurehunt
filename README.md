@@ -1,5 +1,7 @@
 # AJD-TreasureHunt | QB-Core
 
+## THIS SCRIPT IS CURRENTLY UNTESTED AND WAS MADE AT 3AM IF YOU DOWNLOAD AND INSTALL THIS IN ITS CURRENT FORM UNDERSTAND YOU ARE EXPECTED TO ENTER YOUR OWN ITEMS IN THE CONFIG FROM QB-CORE/SHARED/ITEMS.LUA AND EVEN STILL MAY NOT WORK.
+
 This script allows players to hunt for treasures across Los Santos. Players can find and dig at specific spots using a shovel, with various checks and cooldowns in place to balance gameplay.
 
 ## Installation
